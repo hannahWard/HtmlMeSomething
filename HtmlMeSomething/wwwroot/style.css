@@ -5,17 +5,21 @@
     margin-bottom: -30px;
     
 }
-.below-title {
+h3 {
     text-align: center;
     font-family: 'Sorts Mill Goudy', serif;
     font-size: 28px;
 }
 
-h4 {
+h2 {
     font-family: 'Sorts Mill Goudy', serif;
     font-size: 40px;
     padding-left: 40px;
     padding-top: 50px;
     margin-bottom: -10px;
+}
+p {
+    font-family: 'Sorts Mill Goudy', serif;
+    color: red;
 }
 
