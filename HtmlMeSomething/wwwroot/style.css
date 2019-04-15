@@ -18,8 +18,11 @@ h2 {
     padding-top: 50px;
     margin-bottom: -10px;
 }
-p {
+.paragraph {
     font-family: 'Sorts Mill Goudy', serif;
-    color: red;
+    font-size: 20px;
+}
+#form-outer {
+    background-color: #eaeab4;
 }
 
